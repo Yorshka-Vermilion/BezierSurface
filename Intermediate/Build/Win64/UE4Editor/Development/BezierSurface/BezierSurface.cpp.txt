@@ -1,0 +1,2 @@
+S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\Definitions.BezierSurface.h
+S:\UE4\BezierSurface\Source\BezierSurface\BezierSurface.h

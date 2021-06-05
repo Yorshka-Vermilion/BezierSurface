@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BezierSurface.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3F3F475F-43B2-4385-B56E-7F798AD38DCD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BezierSurface.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BezierSurfaceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4C8CF454-849F-4A2E-A5BC-2DC76EB309D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BezierSurface">
+      <UniqueIdentifier>{39E1ABD5-7F56-4D77-B295-EC0522E70AC1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BezierSurface\Bezier.cpp">
+      <Filter>Source\BezierSurface</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierSurface\Bezier.h">
+      <Filter>Source\BezierSurface</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BezierSurface\BezierSurface.Build.cs">
+      <Filter>Source\BezierSurface</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BezierSurface\BezierSurface.cpp">
+      <Filter>Source\BezierSurface</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierSurface\BezierSurface.h">
+      <Filter>Source\BezierSurface</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BezierSurface\BezierSurfaceGameModeBase.cpp">
+      <Filter>Source\BezierSurface</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierSurface\BezierSurfaceGameModeBase.h">
+      <Filter>Source\BezierSurface</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BezierSurface\MyActor.cpp">
+      <Filter>Source\BezierSurface</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierSurface\MyActor.h">
+      <Filter>Source\BezierSurface</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BezierSurface\Plat.cpp">
+      <Filter>Source\BezierSurface</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BezierSurface\Plat.h">
+      <Filter>Source\BezierSurface</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
