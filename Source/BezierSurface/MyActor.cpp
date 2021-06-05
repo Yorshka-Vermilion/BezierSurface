@@ -18,8 +18,8 @@ AMyActor::AMyActor()
 	zk=zp;
 	
 	maxDelay = 0.01;
-	maxDelay2 = 1;
 	dlugoscFali = 50;
+	SizeOfPlate = 1;
 
 	dlugosc = 1;
 	szerokosc = 1;
@@ -52,21 +52,28 @@ void AMyActor::Tick(float DeltaTime)
 	{			
 		for(int32 i = 0;i<meshes.Num();i++)
 		{
-			meshes[i]->Faluj();
+			meshes[i]->Faluj(meshes[meshes[i]->index]->GetVertices(meshes[i]->kierunek));
 			meshes[i]->Przesun();
-			meshes[i]->Tick(DeltaTime);
 		}
 		delay = 0;
 	}
 }
 
-
-
-
-
 void AMyActor::Buduj()
 {
-	meshes.Add(NewObject<APlat>());
-	meshes.Last()->Buduj(MapSize,material,dlugoscFali,zp,z1,z2,zk);
+	FActorSpawnParameters SpawnInfo;
+	SpawnInfo.Owner = this;	
+	meshes.Add(GetWorld()->SpawnActor<APlat>(APlat::StaticClass(), FVector(0,0,0), FRotator(0,0,0), SpawnInfo));
+	meshes.Last()->Buduj(MapSize,material,SizeOfPlate,dlugoscFali,zp,z1,z2,zk,FVector(0,0,0),0,0, 0);
 	meshes.Last()->Kalkuluj();
+	
+	meshes.Add(GetWorld()->SpawnActor<APlat>(APlat::StaticClass(), FVector(0,0,0), FRotator(0,0,0), SpawnInfo));
+	meshes.Last()->Buduj(MapSize,material,SizeOfPlate,dlugoscFali,zp,z1,z2,zk,FVector(0,-MapSize.Y+SizeOfPlate,0),0,0, 1);
+
+	meshes.Add(GetWorld()->SpawnActor<APlat>(APlat::StaticClass(), FVector(0,0,0), FRotator(0,0,0), SpawnInfo));
+	meshes.Last()->Buduj(MapSize,material,SizeOfPlate,dlugoscFali,zp,z1,z2,zk,FVector(MapSize.X-SizeOfPlate,-MapSize.Y+SizeOfPlate,0),1,1, 1);
+
+	meshes.Add(GetWorld()->SpawnActor<APlat>(APlat::StaticClass(), FVector(0,0,0), FRotator(0,0,0), SpawnInfo));
+	meshes.Last()->Buduj(MapSize,material,SizeOfPlate,dlugoscFali,zp,z1,z2,zk,FVector(0,MapSize.Y-SizeOfPlate,0),0,0, 0);
+
 }

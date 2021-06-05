@@ -8,6 +8,7 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FVector;
 struct FVector2D;
 class UMaterial;
 #ifdef BEZIERSURFACE_Plat_generated_h
@@ -20,6 +21,7 @@ class UMaterial;
  \
 	DECLARE_FUNCTION(execKalkuluj); \
 	DECLARE_FUNCTION(execPrzesun); \
+	DECLARE_FUNCTION(execGetVertices); \
 	DECLARE_FUNCTION(execFaluj); \
 	DECLARE_FUNCTION(execBuduj);
 
@@ -28,6 +30,7 @@ class UMaterial;
  \
 	DECLARE_FUNCTION(execKalkuluj); \
 	DECLARE_FUNCTION(execPrzesun); \
+	DECLARE_FUNCTION(execGetVertices); \
 	DECLARE_FUNCTION(execFaluj); \
 	DECLARE_FUNCTION(execBuduj);
 

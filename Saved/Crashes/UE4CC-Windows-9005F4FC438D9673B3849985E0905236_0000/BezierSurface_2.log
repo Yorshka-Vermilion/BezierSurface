@@ -1,0 +1,1511 @@
+﻿Log file open, 05/19/21 18:53:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: BezierSurface
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.154539
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: S:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.19-16.53.21:456][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.19-16.53.21:456][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:457][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.19-16.53.21:457][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.19-16.53.21:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:458][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:516][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-16.53.21:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.19-16.53.21:517][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.19-16.53.21:518][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.19-16.53.21:519][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.19-16.53.21:520][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-16.53.21:520][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.19-16.53.21:521][  0]LogHAL: Display: Platform has ~ 16 GB [17125339136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.19-16.53.21:521][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.19-16.53.21:521][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:521][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.19-16.53.21:521][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.19-16.53.21:521][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:521][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.19-16.53.21:521][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.19-16.53.21:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [S:/UE4/BezierSurface/Saved/Config/Windows/Scalability.ini]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.19-16.53.21:523][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.19-16.53.21:524][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.19-16.53.21:524][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.19-16.53.21:524][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.19-16.53.21:524][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [S:/UE4/BezierSurface/Saved/Config/Windows/Engine.ini]
+[2021.05.19-16.53.21:524][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [S:/UE4/BezierSurface/Saved/Config/Windows/Editor.ini]
+[2021.05.19-16.53.21:525][  0]LogInit: Computer: DESKTOP-LJH6J12
+[2021.05.19-16.53.21:525][  0]LogInit: User: MangD
+[2021.05.19-16.53.21:525][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.19-16.53.21:525][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.19-16.53.21:525][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.19-16.53.21:525][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.19-16.53.21:525][  0]LogMemory: Process Physical Memory: 143.54 MB used, 143.55 MB peak
+[2021.05.19-16.53.21:525][  0]LogMemory: Process Virtual Memory: 121.05 MB used, 121.05 MB peak
+[2021.05.19-16.53.21:525][  0]LogMemory: Physical Memory: 15748.97 MB used,  583.02 MB free, 16332.00 MB total
+[2021.05.19-16.53.21:525][  0]LogMemory: Virtual Memory: 134214568.00 MB used,  3158.20 MB free, 134217728.00 MB total
+[2021.05.19-16.53.21:959][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.19-16.53.22:132][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.19-16.53.22:136][  0]LogInit: Using OS detected language (pl-PL).
+[2021.05.19-16.53.22:136][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.05.19-16.53.22:148][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.05.19-16.53.22:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.05.19-16.53.22:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.05.19-16.53.22:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.05.19-16.53.22:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.05.19-16.53.22:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.05.19-16.53.22:150][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.05.19-16.53.22:150][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.05.19-16.53.22:194][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.19-16.53.22:212][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-16.53.22:282][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.19-16.53.22:282][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.19-16.53.27:953][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.19-16.53.27:953][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.19-16.53.27:953][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.19-16.53.27:953][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.19-16.53.28:109][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2021.05.19-16.53.28:109][  0]LogD3D11RHI:       6052/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.19-16.53.28:118][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.19-16.53.28:118][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.19-16.53.28:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.19-16.53.28:129][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.19-16.53.28:129][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.19-16.53.28:129][  0]LogWindows: EnumDisplayDevices:
+[2021.05.19-16.53.28:130][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2021.05.19-16.53.28:130][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.05.19-16.53.28:130][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.05.19-16.53.28:130][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2021.05.19-16.53.28:131][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.19-16.53.28:131][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2021.05.19-16.53.28:131][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.05.19-16.53.28:131][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.05.19-16.53.28:132][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.05.19-16.53.28:248][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.19-16.53.28:250][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.19-16.53.28:250][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.19-16.53.28:254][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2021.05.19-16.53.28:318][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.19-16.53.28:327][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.19-16.53.29:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.19-16.53.29:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.19-16.53.29:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.19-16.53.29:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.19-16.53.29:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.19-16.53.29:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.19-16.53.29:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.19-16.53.29:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.19-16.53.29:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.19-16.53.29:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.19-16.53.29:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.19-16.53.29:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.19-16.53.29:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.19-16.53.29:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.19-16.53.29:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.19-16.53.29:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.19-16.53.29:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.19-16.53.29:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.19-16.53.29:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.19-16.53.29:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.19-16.53.29:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.19-16.53.29:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.19-16.53.29:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.19-16.53.29:354][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.19-16.53.29:370][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.19-16.53.29:564][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.19-16.53.29:566][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (../../../../BezierSurface/Intermediate/Shaders/WorkingDirectory/12196/).
+[2021.05.19-16.53.29:566][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MangD/AppData/Local/Temp/UnrealShaderWorkingDir/8B9BAAF14047AFC5C3E96BA139EFAE20/'.
+[2021.05.19-16.53.29:567][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.19-16.53.29:567][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.19-16.53.35:322][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: Loaded boot cache 0.34s 130MB C:/Users/MangD/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MangD/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../BezierSurface/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../BezierSurface/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-16.53.35:659][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.19-16.53.35:676][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.19-16.53.35:676][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.19-16.53.35:676][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.19-16.53.35:693][  0]LogDerivedDataCache: Speed tests for C:/Users/MangD/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.05.19-16.53.35:693][  0]LogDerivedDataCache: Display: Performance to C:/Users/MangD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=122.67MBs, RandomWriteSpeed=111.15MBs. Assigned SpeedClass 'Local'
+[2021.05.19-16.53.35:695][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MangD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.19-16.53.35:695][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.19-16.53.35:695][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.19-16.53.35:765][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.19-16.53.35:767][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.19-16.53.35:863][  0]LogAssetRegistry: FAssetRegistry took 0.0070 seconds to start up
+[2021.05.19-16.53.36:433][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.19-16.53.36:433][  0]LogInit: Active device profile: [000001BF0926FE00][000001BF07D1C880 49] Windows
+[2021.05.19-16.53.36:433][  0]LogInit: Profiles: [000001BF0926FE00][000001BF07D1C880 49] Windows, [000001BF09238300][000001BF07D24A00 49] WindowsNoEditor, [000001BF0926C300][000001BF07D28B80 49] WindowsServer, [000001BF0923BA00][000001BF07D2CD00 49] WindowsClient, [000001BF0926FB00][000001BF07D30E80 49] IOS, [000001BF09238700][000001BF07D35000 49] iPadAir, [000001BF0926C600][000001BF07D39180 49] iPadAir2, [000001BF091F9700][000001BF07D45440 49] IPadPro, [000001BF091F9800][000001BF07D3D480 49] iPadAir3, [000001BF0926F800][000001BF07D215C0 49] iPadAir4, [000001BF091F8800][000001BF07D51700 49] iPadMini2, [000001BF0926C200][000001BF07D55840 49] iPadMini3, [000001BF091FA100][000001BF07D5D9C0 49] iPadMini4, [000001BF0926F500][000001BF07D61B40 49] iPadMini5, [000001BF0923A600][000001BF07D68140 49] iPhone6, [000001BF0923A500][000001BF07D64180 49] iPodTouch6, [000001BF091FBD00][000001BF07D70440 49] iPhone7, [000001BF091FBC00][000001BF07D6C480 49] iPodTouch7, [000001BF0923AC00][000001BF07D74600 49] iPhone5S, [000001BF091F9500][000001BF07D78780 49] iPhone6Plus, [000001BF09239F00][000001BF07D7C900 49] iPhone6S, [000001BF091FB500][000001BF07D80A80 49] iPhone6SPlus, [000001BF0923AB00][000001BF07D84C00 49] iPhone7Plus, [000001BF091FBF00][000001BF07D88D80 49] iPhoneSE, [000001BF09239A00][000001BF07D8CF00 49] iPhone8, [000001BF091FB000][000001BF07D91080 49] iPhone8Plus, [000001BF0923B700][000001BF07D95200 49] iPhoneX, [000001BF091F8300][000001BF07D99380 49] iPhoneXS, [000001BF0923AF00][000001BF07D9D500 49] iPhoneXSMax, [000001BF091F9000][000001BF07D59640 49] iPhoneXR, [000001BF0923BD00][000001BF07DA1780 49] iPhone11, [000001BF091F8700][000001BF07DA58C0 49] iPhone11Pro, [000001BF0923AA00][000001BF07DA9A00 49] iPhone11ProMax, [000001BF091F8A00][000001BF07DB1B80 49] iPhoneSE2, [000001BF09239C00][000001BF07DB5D00 49] iPhone12Mini, [000001BF091FA000][000001BF07DB81C0 49] iPhone12, [000001BF09239300][000001BF07DBC340 49] iPhone12Pro, [000001BF091F8E00][000001BF07DC04C0 49] iPhone12ProMax, [000001BF0923A300][000001BF07DC4640 49] iPadPro105, [000001BF091F9D00][000001BF07DC87C0 49] iPadPro129, [000001BF09238F00][000001BF07DCC940 49] iPadPro97, [000001BF091FB200][000001BF07DD0AC0 49] iPadPro2_129, [000001BF09239400][000001BF07DD4C40 49] iPad5, [000001BF091F9A00][000001BF07DD8DC0 49] iPad6, [000001BF09238400][000001BF07DDCF40 49] iPad7, [000001BF091FA500][000001BF07DE10C0 49] iPad8, [000001BF09238B00][000001BF07DE5240 49] iPadPro11, [000001BF091FA300][000001BF07DE93C0 49] iPadPro2_11, [000001BF09239D00][000001BF07DED540 49] iPadPro3_129, [000001BF091FB300][000001BF07DAD680 49] iPadPro4_129, [000001BF09239800][000001BF07DF17C0 49] AppleTV, [000001BF091FB600][000001BF07DF5900 49] AppleTV4K, [000001BF09239200][000001BF07DF9A40 49] TVOS, [000001BF091F8F00][000001BF07E01BC0 49] Mac, [000001BF0923A400][000001BF07E05D40 49] MacClient, [000001BF091FB900][000001BF07E08200 49] MacNoEditor, [000001BF09238100][000001BF07E0C380 49] MacServer, [000001BF091FA700][000001BF07E10500 49] Linux, [000001BF09238500][000001BF07E14680 49] LinuxAArch64, [000001BF091F8200][000001BF07E18800 49] LinuxNoEditor, [000001BF0923A200][000001BF07E1C980 49] LinuxAArch64NoEditor, [000001BF091FAD00][000001BF07E20B00 49] LinuxClient, [000001BF09238200][000001BF07E24C80 49] LinuxAArch64Client, [000001BF091FA200][000001BF07E28E00 49] LinuxServer, [000001BF0923BB00][000001BF07E2CF80 49] LinuxAArch64Server, [000001BF091F9E00][000001BF07E31100 49] Android, [000001BF0923B900][000001BF07E35280 49] Android_Low, [000001BF0926C900][000001BF07E39400 49] Android_Mid, [000001BF09325600][000001BF07E3D580 49] Android_High, [000001BF0926CF00][000001BF07E41700 49] Android_Default, [000001BF09324600][000001BF07DFD840 49] Android_Adreno4xx, [000001BF0926D900][000001BF07E45980 49] Android_Adreno5xx_Low, [000001BF09325B00][000001BF07E49AC0 49] Android_Adreno5xx, [000001BF0926EA00][000001BF07E51C40 49] Android_Adreno6xx, [000001BF09324400][000001BF07E54100 49] Android_Adreno6xx_Vulkan, [000001BF0926FA00][000001BF07E58280 49] Android_Mali_T6xx, [000001BF09324F00][000001BF07E5C400 49] Android_Mali_T7xx, [000001BF0926E100][000001BF07E60580 49] Android_Mali_T8xx, [000001BF09325C00][000001BF07E64700 49] Android_Mali_G71, [000001BF0926EE00][000001BF07E68880 49] Android_Mali_G72, [000001BF09324E00][000001BF07E6CA00 49] Android_Mali_G72_Vulkan, [000001BF0926DA00][000001BF07E70B80 49] Android_Mali_G76, [000001BF09325300][000001BF07E74D00 49] Android_Mali_G76_Vulkan, [000001BF0926C500][000001BF07E78E80 49] Android_Mali_G77, [000001BF09324D00][000001BF07E7D000 49] Android_Mali_G77_Vulkan, [000001BF0926F300][000001BF07E81180 49] Android_Vulkan_SM5, [000001BF09324A00][000001BF07E85300 49] Android_PowerVR_G6xxx, [000001BF0926EC00][000001BF07E89480 49] Android_PowerVR_GT7xxx, [000001BF09324900][000001BF07E8D600 49] Android_PowerVR_GE8xxx, [000001BF0926E400][000001BF07E91780 49] Android_PowerVR_GM9xxx, [000001BF0923A100][000001BF07E4D8C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001BF0926CE00][000001BF07E95A00 49] Android_TegraK1, [000001BF09238C00][000001BF07E99B40 49] Android_Unknown_Vulkan, [000001BF0926C800][000001BF07EA1CC0 49] Lumin, [000001BF09238900][000001BF07EA4180 49] Lumin_Desktop, [000001BF0926D200][000001BF07EA8300 49] HoloLens, 
+[2021.05.19-16.53.36:685][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.19-16.53.36:685][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.19-16.53.36:685][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.19-16.53.36:685][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.19-16.53.36:685][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.19-16.53.36:739][  0]LogNetVersion: BezierSurface 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3506529438)
+[2021.05.19-16.53.41:614][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.19-16.53.41:692][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.075913 seconds
+[2021.05.19-16.53.41:699][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.19-16.53.41:699][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.19-16.53.41:699][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.19-16.53.42:973][  0]LogPython: Using Python 3.7.7
+[2021.05.19-16.53.44:259][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.19-16.53.44:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.19-16.53.44:567][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.44:567][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.44:585][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.44:592][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.44:622][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.44:627][  0]LogUProjectInfo: Found projects:
+[2021.05.19-16.53.45:285][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.19-16.53.45:322][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-16.53.45:322][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.19-16.53.45:501][  0]LogCollectionManager: Loaded 0 collections in 0.003379 seconds
+[2021.05.19-16.53.45:560][  0]LogFileCache: Scanning file cache for directory 'S:/UE4/BezierSurface/Saved/Collections/' took 0.00s
+[2021.05.19-16.53.45:560][  0]LogFileCache: Scanning file cache for directory 'S:/UE4/BezierSurface/Content/Developers/MangD/Collections/' took 0.00s
+[2021.05.19-16.53.45:560][  0]LogFileCache: Scanning file cache for directory 'S:/UE4/BezierSurface/Content/Collections/' took 0.00s
+[2021.05.19-16.53.45:560][  0]LogOcInput: OculusInput pre-init called
+[2021.05.19-16.53.45:584][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.19-16.53.45:584][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.19-16.53.46:056][  0]LogEngine: Initializing Engine...
+[2021.05.19-16.53.46:060][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.19-16.53.46:060][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.19-16.53.46:063][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.05.19-16.53.46:207][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.19-16.53.46:248][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.19-16.53.46:254][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.19-16.53.46:262][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.19-16.53.46:263][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-16.53.46:264][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-16.53.46:264][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-16.53.46:266][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-16.53.46:267][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-16.53.46:293][  0]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-16.53.46:567][  0]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-16.53.46:574][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-16.53.46:576][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-16.53.46:577][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-16.53.46:578][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-16.53.46:579][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-16.53.46:579][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-16.53.46:581][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-16.53.46:581][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-16.53.46:581][  0]LogInit: FAudioDevice initialized.
+[2021.05.19-16.53.46:581][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.19-16.53.46:582][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.19-16.53.46:709][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/MangD/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.19-16.53.46:711][  0]LogInit: Texture streaming: Enabled
+[2021.05.19-16.53.46:737][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.19-16.53.46:746][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.19-16.53.46:746][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={89F01514-4E03-DC1B-D674-BC90BB0B3C04}
+[2021.05.19-16.53.46:746][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.19-16.53.46:750][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.19-16.53.46:805][  0]LogInit: Transaction tracking system initialized
+[2021.05.19-16.53.46:864][  0]BlueprintLog: New page: Editor Load
+[2021.05.19-16.53.47:070][  0]LocalizationService: Localization service is disabled
+[2021.05.19-16.53.47:152][  0]TimingProfiler: Initialize
+[2021.05.19-16.53.47:154][  0]TimingProfiler: OnSessionChanged
+[2021.05.19-16.53.47:154][  0]LoadingProfiler: Initialize
+[2021.05.19-16.53.47:155][  0]LoadingProfiler: OnSessionChanged
+[2021.05.19-16.53.47:155][  0]NetworkingProfiler: Initialize
+[2021.05.19-16.53.47:156][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.19-16.53.47:156][  0]MemoryProfiler: Initialize
+[2021.05.19-16.53.47:156][  0]MemoryProfiler: OnSessionChanged
+[2021.05.19-16.53.47:437][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.19-16.53.47:437][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.19-16.53.47:680][  0]LogFileCache: Scanning file cache for directory 'S:/UE4/BezierSurface/Content/' took 0.01s
+[2021.05.19-16.53.48:158][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.19-16.53.48:167][  0]SourceControl: Source control is disabled
+[2021.05.19-16.53.48:288][  0]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.19-16.54.36:240][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2021.05.19-16.54.36:244][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-16.54.36:256][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.19-16.54.36:257][  0]LogUnrealEdMisc: Loading editor; pre map load, took 77.555
+[2021.05.19-16.54.36:259][  0]Cmd: MAP LOAD FILE="../../../../BezierSurface/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.19-16.54.36:260][  0]LightingResults: New page: Lighting Build
+[2021.05.19-16.54.36:267][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-16.54.36:268][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.54.36:270][  0]MapCheck: New page: Map Check
+[2021.05.19-16.54.36:270][  0]LightingResults: New page: Lighting Build
+[2021.05.19-16.54.36:287][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.05.19-16.54.36:400][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.05.19-16.54.36:407][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.05.19-16.54.36:451][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.05.19-16.54.36:459][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.05.19-16.54.36:477][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.05.19-16.54.36:478][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-16.54.36:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.19-16.54.36:512][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.05.19-16.54.36:514][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.19-16.54.36:514][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,171ms to complete.
+[2021.05.19-16.54.36:514][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.256
+[2021.05.19-16.54.36:542][  0]LogUnrealEdMisc: Total Editor Startup Time, took 77.840
+[2021.05.19-16.54.36:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.36:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.36:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.36:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.36:739][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0137 seconds. Added 3631 classes and 874 folders.
+[2021.05.19-16.54.36:748][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.19-16.54.36:785][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-16.54.36:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-16.54.36:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.05.19-16.54.36:799][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-16.54.36:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-16.54.36:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.05.19-16.54.36:809][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.19-16.54.36:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.19-16.54.36:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.05.19-16.54.36:819][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-16.54.36:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-16.54.36:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.19-16.54.36:831][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-16.54.36:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-16.54.36:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.05.19-16.54.36:841][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-16.54.36:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-16.54.36:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.19-16.54.36:851][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-16.54.36:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-16.54.36:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.19-16.54.36:862][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-16.54.36:862][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:862][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-16.54.36:862][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.19-16.54.36:874][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-16.54.36:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-16.54.36:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.19-16.54.36:886][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.19-16.54.36:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.19-16.54.36:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.05.19-16.54.36:897][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.19-16.54.36:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.19-16.54.36:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.05.19-16.54.36:913][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-16.54.36:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-16.54.36:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.19-16.54.36:925][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-16.54.36:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-16.54.36:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.05.19-16.54.36:936][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-16.54.36:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-16.54.36:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.19-16.54.36:949][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.19-16.54.36:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.19-16.54.36:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.05.19-16.54.36:963][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-16.54.36:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-16.54.36:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.05.19-16.54.36:975][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.19-16.54.36:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.19-16.54.36:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.05.19-16.54.36:986][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-16.54.36:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-16.54.36:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2021.05.19-16.54.36:997][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-16.54.36:998][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.36:998][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-16.54.36:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.05.19-16.54.37:014][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-16.54.37:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-16.54.37:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2021.05.19-16.54.37:025][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.19-16.54.37:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.19-16.54.37:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.05.19-16.54.37:035][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.19-16.54.37:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.19-16.54.37:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2021.05.19-16.54.37:045][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.19-16.54.37:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.19-16.54.37:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000129
+[2021.05.19-16.54.37:056][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.19-16.54.37:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.19-16.54.37:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000133
+[2021.05.19-16.54.37:066][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.19-16.54.37:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.19-16.54.37:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2021.05.19-16.54.37:076][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.19-16.54.37:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.19-16.54.37:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.19-16.54.37:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2021.05.19-16.54.37:561][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.19-16.54.37:573][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.05.19-16.54.37:783][  0]LogSlate: Took 0.000789 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.19-16.54.37:801][  0]LogSlate: Took 0.009081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.19-16.54.37:956][  0]LogRenderer: Reallocating scene render targets to support 1288x596 Format 10 NumSamples 1 (Frame:1).
+[2021.05.19-16.54.38:126][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.19-16.54.38:126][  0]LogLoad: (Engine Initialization) Total time: 79.42 seconds
+[2021.05.19-16.54.38:126][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.19-16.54.38:126][  0]LogInit: First time updating LLM stats...
+[2021.05.19-16.54.38:174][  0]LogAssetRegistry: Asset discovery search completed in 62.3129 seconds
+[2021.05.19-16.54.38:177][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.05.19-16.54.38:220][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.19-16.54.46:187][930]LogEditor: Attempting to add actor of class 'MyActor' to level at 280.00,110.00,30.00
+[2021.05.19-16.54.46:297][935]LogEditor: Attempting to add actor of class 'MyActor' to level at 180.00,70.00,30.00
+[2021.05.19-16.54.47:895][111]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:905][112]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:925][114]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:934][115]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:944][116]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:954][117]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:964][118]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:974][119]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:983][120]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.47:992][121]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.48:002][122]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.48:019][124]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.48:228][149]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.54.53:306][718]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-16.54.53:317][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-16.54.53:321][718]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 20:54:53)
+[2021.05.19-16.54.53:325][718]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.19-16.54.53:327][718]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.19-16.54.53:327][718]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.54.53:332][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2021.05.19-16.54.53:333][718]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-16.54.53:333][718]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2021.05.19-16.54.53:333][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005935s)
+[2021.05.19-16.54.53:339][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.19-16.54.53:340][718]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-16.54.53:340][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-16.54.53:340][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-16.54.53:341][718]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-16.54.53:341][718]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-16.54.53:346][718]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-16.54.53:557][718]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-16.54.53:557][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-16.54.53:557][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-16.54.53:557][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-16.54.53:558][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-16.54.53:558][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-16.54.53:558][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-16.54.53:578][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-16.54.53:578][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-16.54.53:578][718]LogInit: FAudioDevice initialized.
+[2021.05.19-16.54.53:578][718]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.05.19-16.54.53:629][718]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-16.54.53:632][718]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-18.54.53
+[2021.05.19-16.54.53:633][718]LogWorld: Bringing up level for play took: 0.001064
+[2021.05.19-16.54.53:633][718]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.05.19-16.54.53:645][718]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.05.19-16.54.53:649][718]PIE: Server logged in
+[2021.05.19-16.54.53:652][718]PIE: Play in editor total start time 0,337 seconds.
+[2021.05.19-16.54.55:382][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.55:382][914]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.54.55:382][914]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-16.54.55:383][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.54.55:396][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-16.54.55:424][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.54.55:430][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-16.54.55:430][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.54.55:432][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.54.55:452][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.54.55:455][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.19-16.54.55:494][915]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.05.19-16.56.11:865][908]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.12:301][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.13:274][ 62]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2021.05.19-16.56.14:315][174]Cmd: DELETE
+[2021.05.19-16.56.14:315][174]Cmd: ACTOR DELETE
+[2021.05.19-16.56.14:324][174]LogEditorActor: Deleted Actor: AmbientSound
+[2021.05.19-16.56.14:330][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.19-16.56.14:332][174]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.05.19-16.56.16:389][399]LogSlate: Took 0.009838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.19-16.56.16:404][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="../../../../BezierSurface/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.19-16.56.16:411][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.05.19-16.56.16:429][399]LogSavePackage: Moving '../../../../BezierSurface/Saved/Minimal_DefaultC91761FB425B10D758AFC08E5E25B3F1.tmp' to '../../../../BezierSurface/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.05.19-16.56.16:434][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../BezierSurface/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.05.19-16.56.16:480][399]LogSavePackage: Moving '../../../../BezierSurface/Saved/Minimal_Default_BuiltDataDC4906394794EAE82C49E986D3D133DE.tmp' to '../../../../BezierSurface/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.05.19-16.56.16:493][399]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.19-16.56.16:493][399]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.05.19-16.56.16:494][399]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.05.19-16.56.43:497][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.19-16.56.44:046][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.05.19-16.56.44:419][147]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.44:909][202]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.45:281][245]LogEditorViewport: Clicking on Actor (LMB): MyActor (MyActor1)
+[2021.05.19-16.56.45:472][262]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.45:797][297]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.05.19-16.56.46:216][340]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.05.19-16.56.46:504][373]LogEditorViewport: Clicking on Actor (LMB): MyActor (MyActor1)
+[2021.05.19-16.56.48:737][629]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:746][630]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:755][631]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:765][632]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:775][633]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:784][634]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.48:793][635]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.49:118][674]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.51:589][967]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.54:954][361]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.56:493][534]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.56.56:557][541]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.56.57:163][606]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-16.56.57:169][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-16.56.57:169][606]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 20:56:57)
+[2021.05.19-16.56.57:206][606]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.56.57:210][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004503s)
+[2021.05.19-16.56.57:212][606]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-16.56.57:212][606]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2021.05.19-16.56.57:212][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006366s)
+[2021.05.19-16.56.57:218][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.05.19-16.56.57:219][606]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-16.56.57:219][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-16.56.57:219][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-16.56.57:220][606]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-16.56.57:220][606]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-16.56.57:224][606]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-16.56.57:446][606]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-16.56.57:446][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-16.56.57:446][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-16.56.57:446][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-16.56.57:447][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-16.56.57:447][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-16.56.57:447][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-16.56.57:468][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-16.56.57:468][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-16.56.57:468][606]LogInit: FAudioDevice initialized.
+[2021.05.19-16.56.57:468][606]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2021.05.19-16.56.57:478][606]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-16.56.57:479][606]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-18.56.57
+[2021.05.19-16.56.57:480][606]LogWorld: Bringing up level for play took: 0.001120
+[2021.05.19-16.56.57:480][606]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.05.19-16.56.57:483][606]PIE: Server logged in
+[2021.05.19-16.56.57:484][606]PIE: Play in editor total start time 0,317 seconds.
+[2021.05.19-16.57.02:407][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.57.02:407][191]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.57.02:408][191]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-16.57.02:408][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.57.02:419][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-16.57.02:430][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.57.02:436][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.57.02:436][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.57.02:437][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.57.02:461][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.19-16.57.02:498][192]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.05.19-16.57.04:439][404]LogSlate: Took 0.003975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.19-16.57.04:954][450]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.57.05:451][508]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.57.05:841][553]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.57.06:107][583]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.05.19-16.57.06:431][620]LogEditorViewport: Clicking on Actor (LMB): MyActor (MyActor1)
+[2021.05.19-16.57.12:403][290]MapCheck: New page: Map Check
+[2021.05.19-16.57.12:423][290]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.19-16.57.12:423][290]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.19-16.57.12:497][290]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.57.12:497][290]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2021.05.19-16.57.12:509][290]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.19-16.57.12:509][290]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.19-16.57.12:509][290]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.19-16.57.12:516][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.05.19-16.57.12:521][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:531][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:533][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:535][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:537][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.05.19-16.57.12:540][290]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.05.19-16.57.12:540][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.12:543][290]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.19-16.57.14:181][290]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.05.19-16.57.14:181][290]TextureStreamingBuild: Display: Compiling optional shaders took 1.664 seconds.
+[2021.05.19-16.57.14:252][290]LogLevel: Display: Export Material TexCoord Scales took 0.071 seconds.
+[2021.05.19-16.57.14:254][290]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.05.19-16.57.14:259][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.05.19-16.57.14:262][290]LightingResults: New page: Lighting Build - 19 maj 2021, 20:57:14
+[2021.05.19-16.57.14:442][290]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.19-16.57.14:892][290]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.19-16.57.14:913][290]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.19-16.57.15:970][290]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.19-16.57.15:971][290]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12196
+[2021.05.19-16.57.23:241][290]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.19-16.57.23:242][290]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.19-16.57.23:242][290]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.19-16.57.23:242][290]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.19-16.57.23:242][290]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.19-16.57.23:242][290]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.19-16.57.23:560][290]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.05.19-16.57.23:560][290]MapCheck: New page: Minimal_Default - 19 maj 2021, 20:57:23
+[2021.05.19-16.57.23:561][290]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,416ms to complete.
+[2021.05.19-16.57.23:564][290]LogEditorBuildUtils: Build time 0:11
+[2021.05.19-16.57.23:585][290]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2021.05.19-16.57.23:593][290]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.05.19-16.57.23:593][290]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.05.19-16.57.23:593][290]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2021.05.19-16.57.23:639][291]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.05.19-16.57.23:639][291]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.05.19-16.57.23:648][291]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2021.05.19-16.57.23:653][291]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.05.19-16.57.23:653][291]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.05.19-16.57.23:653][291]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2021.05.19-16.57.23:702][291]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.05.19-16.57.23:703][291]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.05.19-16.57.23:722][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2021.05.19-16.57.23:728][292]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.05.19-16.57.23:728][292]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.19-16.57.23:728][292]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2021.05.19-16.57.23:768][292]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.05.19-16.57.23:768][292]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.05.19-16.57.23:794][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2021.05.19-16.57.23:801][293]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2021.05.19-16.57.24:770][295]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.05.19-16.57.24:770][295]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.05.19-16.57.24:770][295]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.05.19-16.57.24:770][295]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.05.19-16.57.25:348][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.19-16.57.28:292][310]Job is a success!
+[2021.05.19-16.57.28:713][311]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.19-16.57.28:714][311]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2021.05.19-16.57.28:864][311]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2021.05.19-16.57.28:864][311]Lightmass on DESKTOP-LJH6J12: 2.02 sec total, 314 ms importing, 47 ms setup, 154 ms photons, 1.39 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 20.8 sec total, 1.31 sec processing.
+[2021.05.19-16.57.28:864][311]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.05.19-16.57.28:872][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.05.19-16.57.28:894][311]LogStaticLightingSystem: Illumination: 14.2 sec (75 ms encoding lightmaps, 35 ms encoding shadowmaps)
+[2021.05.19-16.57.28:894][311]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.05.19-16.57.28:894][311]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.05.19-16.57.29:249][311]DumpUnbuiltLightIteractions
+[2021.05.19-16.57.29:249][311]Lights with unbuilt interactions: 0
+[2021.05.19-16.57.29:249][311]
+[2021.05.19-16.57.29:249][311]Primitives with unbuilt interactions: 0
+[2021.05.19-16.57.29:334][311]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.05.19-16.57.29:351][311]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.05.19-16.57.29:406][312]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.19-16.57.29:406][312]MapCheck: New page: Minimal_Default - 19 maj 2021, 20:57:29
+[2021.05.19-16.57.29:407][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,506ms to complete.
+[2021.05.19-16.58.55:122][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-16.58.55:127][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-16.58.55:127][ 13]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 20:58:55)
+[2021.05.19-16.58.55:166][ 13]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.58.55:170][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2021.05.19-16.58.55:171][ 13]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-16.58.55:171][ 13]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2021.05.19-16.58.55:171][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005747s)
+[2021.05.19-16.58.55:177][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.19-16.58.55:178][ 13]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-16.58.55:178][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-16.58.55:179][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-16.58.55:179][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-16.58.55:179][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-16.58.55:179][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-16.58.55:183][ 13]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-16.58.55:405][ 13]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-16.58.55:406][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-16.58.55:427][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-16.58.55:427][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-16.58.55:427][ 13]LogInit: FAudioDevice initialized.
+[2021.05.19-16.58.55:427][ 13]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2021.05.19-16.58.55:435][ 13]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-16.58.55:437][ 13]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-18.58.55
+[2021.05.19-16.58.55:437][ 13]LogWorld: Bringing up level for play took: 0.001384
+[2021.05.19-16.58.55:438][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.05.19-16.58.55:440][ 13]PIE: Server logged in
+[2021.05.19-16.58.55:441][ 13]PIE: Play in editor total start time 0,315 seconds.
+[2021.05.19-16.59.01:938][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.59.01:938][785]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.59.01:938][785]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-16.59.01:938][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.59.01:953][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-16.59.01:980][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.59.01:985][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-16.59.01:985][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.59.01:986][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.59.02:009][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.59.02:011][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.05.19-16.59.02:049][786]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.05.19-16.59.07:378][396]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:387][397]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:395][398]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:404][399]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:413][400]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:421][401]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:430][402]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:440][403]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:449][404]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:458][405]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:467][406]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:475][407]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:484][408]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:493][409]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:501][410]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:563][417]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:572][418]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:582][419]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:591][420]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:608][422]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:747][438]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:764][440]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:782][442]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:935][460]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:952][462]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:961][463]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:970][464]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:980][465]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.07:989][466]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:007][468]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:016][469]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:041][472]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:058][474]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:074][476]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:091][478]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:108][480]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:126][482]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:143][484]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:176][488]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:193][490]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:202][491]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:211][492]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:219][493]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:228][494]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:237][495]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:746][556]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:754][557]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:763][558]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:772][559]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:780][560]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:789][561]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:797][562]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:814][564]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:823][565]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.08:831][566]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:039][591]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:057][593]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:065][594]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:074][595]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:084][596]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:093][597]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:102][598]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:112][599]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:121][600]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:130][601]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:139][602]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:147][603]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:156][604]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:164][605]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:173][606]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:181][607]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.09:539][650]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_1.GeneratedMesh)
+[2021.05.19-16.59.10:493][755]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-16.59.10:498][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-16.59.10:498][755]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 20:59:10)
+[2021.05.19-16.59.10:526][755]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.59.10:531][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004496s)
+[2021.05.19-16.59.10:532][755]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-16.59.10:532][755]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2021.05.19-16.59.10:532][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006162s)
+[2021.05.19-16.59.10:539][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.19-16.59.10:540][755]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.19-16.59.10:540][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-16.59.10:540][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-16.59.10:540][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-16.59.10:540][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-16.59.10:541][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-16.59.10:541][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-16.59.10:541][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-16.59.10:541][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-16.59.10:541][755]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-16.59.10:541][755]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-16.59.10:545][755]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-16.59.10:749][755]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-16.59.10:749][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-16.59.10:749][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-16.59.10:749][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-16.59.10:750][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-16.59.10:750][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-16.59.10:750][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-16.59.10:772][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-16.59.10:772][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-16.59.10:772][755]LogInit: FAudioDevice initialized.
+[2021.05.19-16.59.10:772][755]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2021.05.19-16.59.10:781][755]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-16.59.10:783][755]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-18.59.10
+[2021.05.19-16.59.10:783][755]LogWorld: Bringing up level for play took: 0.001016
+[2021.05.19-16.59.10:783][755]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.05.19-16.59.10:786][755]PIE: Server logged in
+[2021.05.19-16.59.10:787][755]PIE: Play in editor total start time 0,29 seconds.
+[2021.05.19-16.59.12:228][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.59.12:229][919]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-16.59.12:229][919]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-16.59.12:229][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.59.12:243][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-16.59.12:269][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-16.59.12:275][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-16.59.12:276][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.59.12:277][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-16.59.12:301][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.19-16.59.12:336][920]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.05.19-17.00.42:607][815]LogHotReload: New module detected: UE4Editor-BezierSurface-0008.dll
+[2021.05.19-17.00.43:980][820]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.19-17.00.44:045][820]LogHotReload: Re-instancing MyActor after hot-reload.
+[2021.05.19-17.00.44:046][820]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_2.GeneratedMesh)
+[2021.05.19-17.00.44:111][820]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BezierSurface' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2021.05.19-17.00.44:116][820]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.05.19-17.00.44:171][820]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0130 seconds. Added 3631 classes and 874 folders.
+[2021.05.19-17.00.44:179][820]Display: HotReload took  0.2s.
+[2021.05.19-17.00.47:728][914]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-17.00.47:733][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-17.00.47:734][914]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 21:00:47)
+[2021.05.19-17.00.47:766][914]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-17.00.47:771][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004717s)
+[2021.05.19-17.00.47:772][914]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-17.00.47:772][914]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2021.05.19-17.00.47:772][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006429s)
+[2021.05.19-17.00.47:779][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.19-17.00.47:780][914]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-17.00.47:780][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-17.00.47:780][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-17.00.47:781][914]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-17.00.47:781][914]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-17.00.47:785][914]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-17.00.47:985][914]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-17.00.47:986][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-17.00.47:986][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-17.00.47:986][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-17.00.47:987][914]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-17.00.47:987][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-17.00.47:987][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-17.00.48:012][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-17.00.48:012][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-17.00.48:012][914]LogInit: FAudioDevice initialized.
+[2021.05.19-17.00.48:012][914]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2021.05.19-17.00.48:021][914]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-17.00.48:022][914]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-19.00.48
+[2021.05.19-17.00.48:023][914]LogWorld: Bringing up level for play took: 0.001140
+[2021.05.19-17.00.48:023][914]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.05.19-17.00.48:026][914]PIE: Server logged in
+[2021.05.19-17.00.48:027][914]PIE: Play in editor total start time 0,295 seconds.
+[2021.05.19-17.00.50:847][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-17.00.50:847][246]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-17.00.50:847][246]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-17.00.50:848][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-17.00.50:860][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-17.00.50:885][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-17.00.50:891][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-17.00.50:891][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-17.00.50:892][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-17.00.50:914][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-17.00.50:916][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.19-17.00.50:950][247]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.05.19-17.00.54:592][591]LogEditor: Attempting to add actor of class 'MyActor' to level at 210.00,50.00,30.00
+[2021.05.19-17.00.54:730][600]LogEditor: Attempting to add actor of class 'MyActor' to level at 30.00,-110.00,30.00
+[2021.05.19-17.00.56:335][787]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:361][790]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:379][792]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:405][795]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:432][798]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:467][802]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:525][809]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:601][818]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:668][826]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:727][833]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:778][839]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.56:886][852]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.00.57:846][967]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:697][735]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:706][736]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:719][737]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:737][738]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:755][739]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:772][740]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:787][741]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:956][759]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:970][760]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.04:988][761]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:004][762]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:019][763]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:032][764]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:046][765]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:058][766]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:292][790]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:303][791]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:314][792]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:326][793]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:337][794]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:347][795]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:358][796]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:369][797]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:379][798]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:390][799]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:402][800]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:413][801]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:427][802]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:440][803]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:454][804]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:875][852]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:885][853]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:898][854]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:910][855]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:921][856]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:933][857]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.05:946][858]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.06:964][975]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.06:973][976]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.06:986][977]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.07:000][978]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.07:014][979]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.07:024][980]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.07:034][981]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_4.GeneratedMesh)
+[2021.05.19-17.01.08:042][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-17.01.08:047][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-17.01.08:047][ 93]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 21:01:08)
+[2021.05.19-17.01.08:076][ 93]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-17.01.08:081][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004717s)
+[2021.05.19-17.01.08:082][ 93]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.05.19-17.01.08:082][ 93]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2021.05.19-17.01.08:082][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006365s)
+[2021.05.19-17.01.08:088][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.05.19-17.01.08:089][ 93]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.19-17.01.08:089][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.19-17.01.08:089][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.19-17.01.08:090][ 93]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.19-17.01.08:090][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 1: FrontRight
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 2: FrontCenter
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 3: LowFrequency
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 4: BackLeft
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 5: BackRight
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 6: SideLeft
+[2021.05.19-17.01.08:094][ 93]LogAudioMixer: Display: 7: SideRight
+[2021.05.19-17.01.08:313][ 93]LogAudioMixer: Display: Using Audio Device Zestaw słuchawkowy (CORSAIR VOID PRO Wireless Gaming Headset)
+[2021.05.19-17.01.08:314][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.19-17.01.08:314][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.19-17.01.08:314][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.19-17.01.08:315][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.19-17.01.08:315][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.19-17.01.08:315][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.05.19-17.01.08:336][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.19-17.01.08:336][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.19-17.01.08:336][ 93]LogInit: FAudioDevice initialized.
+[2021.05.19-17.01.08:336][ 93]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2021.05.19-17.01.08:345][ 93]LogLoad: Game class is 'GameModeBase'
+[2021.05.19-17.01.08:347][ 93]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.05.19-19.01.08
+[2021.05.19-17.01.08:347][ 93]LogWorld: Bringing up level for play took: 0.001306
+[2021.05.19-17.01.08:348][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.05.19-17.01.08:351][ 93]PIE: Server logged in
+[2021.05.19-17.01.08:352][ 93]PIE: Play in editor total start time 0,306 seconds.
+[2021.05.19-17.01.11:558][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-17.01.11:558][469]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-17.01.11:558][469]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.05.19-17.01.11:559][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-17.01.11:573][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.19-17.01.11:599][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.19-17.01.11:610][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.19-17.01.11:610][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-17.01.11:612][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.19-17.01.11:635][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.19-17.01.11:637][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.05.19-17.01.11:674][470]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.05.19-17.02.25:950][708]LogHotReload: New module detected: UE4Editor-BezierSurface-0009.dll
+[2021.05.19-17.02.27:312][713]LogHotReload: Starting Hot-Reload from IDE
+[2021.05.19-17.02.27:367][713]LogHotReload: Re-instancing MyActor after hot-reload.
+[2021.05.19-17.02.27:367][713]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_5.GeneratedMesh)
+[2021.05.19-17.02.27:368][713]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: ProceduralMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.MyActor_6.GeneratedMesh)
+[2021.05.19-17.02.27:415][713]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BezierSurface' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2021.05.19-17.02.27:421][713]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.05.19-17.02.27:462][713]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0129 seconds. Added 3631 classes and 874 folders.
+[2021.05.19-17.02.27:467][713]Display: HotReload took  0.2s.
+[2021.05.19-17.02.36:821][831]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.19-17.02.36:826][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.19-17.02.36:827][831]PIE: New page: PIE session: Minimal_Default (19 maj 2021, 21:02:36)
+[2021.05.19-17.02.36:866][831]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.05.19-17.02.36:874][831]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.19-17.03.00:671][831]LogStats: FPlatformStackWalk::StackWalkAndDump - 23.794 s
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: 
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: Ensure condition failed: InParent == nullptr || !InParent->IsAttachedTo(this) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1754]
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: Setting up attachment would create a cycle.
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: Stack: 
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: [Callstack] 0x00007ff94c72d049 UE4Editor-Engine.dll!DispatchCheckVerify<bool,<lambda_5ea1f47267c5c635688d032840530297> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2021.05.19-17.03.00:684][831]LogOutputDevice: Error: [Callstack] 0x00007ff94b1ede64 UE4Editor-Engine.dll!USceneComponent::SetupAttachment() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp:1754]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff94ad2a250 UE4Editor-Engine.dll!AActor::PostLoadSubobjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp:830]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff957d5a0fc UE4Editor-CoreUObject.dll!UObject::ConditionalPostLoad() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp:1065]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff957e9f75b UE4Editor-CoreUObject.dll!StaticDuplicateObjectEx() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:2154]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff94c09f314 UE4Editor-Engine.dll!UWorld::GetDuplicatedWorldForPIE() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\World.cpp:3062]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949acb2d4 UE4Editor-UnrealEd.dll!UEditorEngine::CreatePIEWorldByDuplication() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:2229]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff94b45e2af UE4Editor-Engine.dll!UGameInstance::InitializeForPlayInEditor() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\GameInstance.cpp:289]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949ac92ce UE4Editor-UnrealEd.dll!UEditorEngine::CreateInnerProcessPIEGameInstance() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:2783]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949aecd6f UE4Editor-UnrealEd.dll!UEditorEngine::OnLoginPIEComplete_Deferred() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1503]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949acaedd UE4Editor-UnrealEd.dll!UEditorEngine::CreateNewPlayInEditorInstance() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1750]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949b08c42 UE4Editor-UnrealEd.dll!UEditorEngine::StartPlayInEditorSession() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:2711]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949b0c1d1 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlaySessionRequestImpl() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1116]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949b0ba98 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlaySessionRequest() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:1019]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949568c38 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:1623]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff949e850e6 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:426]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff638729bc2 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4836]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff63874117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff63874125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff6387552bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff638757fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff9a5c07034 KERNEL32.DLL!UnknownFunction []
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: [Callstack] 0x00007ff9a6b62651 ntdll.dll!UnknownFunction []
+[2021.05.19-17.03.00:685][831]LogOutputDevice: Error: 

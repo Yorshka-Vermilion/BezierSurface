@@ -85,13 +85,13 @@ void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_maxDelay;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_maxDelay2_MetaData[];
-#endif
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_maxDelay2;
-#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_dlugoscFali_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_dlugoscFali;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SizeOfPlate_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_SizeOfPlate;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MapSize_MetaData[];
 #endif
@@ -154,19 +154,19 @@ void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay = { "maxDelay", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyActor, maxDelay), METADATA_PARAMS(Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay2_MetaData[] = {
-		{ "Category", "MyActor" },
-		{ "ModuleRelativePath", "MyActor.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay2 = { "maxDelay2", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyActor, maxDelay2), METADATA_PARAMS(Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay2_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay2_MetaData)) };
-#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyActor_Statics::NewProp_dlugoscFali_MetaData[] = {
 		{ "Category", "MyActor" },
 		{ "ModuleRelativePath", "MyActor.h" },
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyActor_Statics::NewProp_dlugoscFali = { "dlugoscFali", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyActor, dlugoscFali), METADATA_PARAMS(Z_Construct_UClass_AMyActor_Statics::NewProp_dlugoscFali_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyActor_Statics::NewProp_dlugoscFali_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyActor_Statics::NewProp_SizeOfPlate_MetaData[] = {
+		{ "Category", "MyActor" },
+		{ "ModuleRelativePath", "MyActor.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMyActor_Statics::NewProp_SizeOfPlate = { "SizeOfPlate", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyActor, SizeOfPlate), METADATA_PARAMS(Z_Construct_UClass_AMyActor_Statics::NewProp_SizeOfPlate_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMyActor_Statics::NewProp_SizeOfPlate_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyActor_Statics::NewProp_MapSize_MetaData[] = {
 		{ "Category", "MyActor" },
@@ -204,8 +204,8 @@ void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_meshes_Inner,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_meshes,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_maxDelay2,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_dlugoscFali,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_SizeOfPlate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_MapSize,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_vertices_Inner,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyActor_Statics::NewProp_vertices,
@@ -240,7 +240,7 @@ void EmptyLinkFunctionForGeneratedCodeMyActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyActor, 3600160434);
+	IMPLEMENT_CLASS(AMyActor, 2323682529);
 	template<> BEZIERSURFACE_API UClass* StaticClass<AMyActor>()
 	{
 		return AMyActor::StaticClass();

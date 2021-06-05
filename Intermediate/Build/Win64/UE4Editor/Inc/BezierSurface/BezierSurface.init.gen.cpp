@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeBezierSurface_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE9B337DE,
+				0x0F88D713,
 				0xC93759FE,
 				METADATA_PARAMS(nullptr, 0)
 			};

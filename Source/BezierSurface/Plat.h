@@ -17,10 +17,13 @@ public:
 	APlat();
 	
 	UFUNCTION()
-        void Buduj(FVector2D MapSizep, UMaterial* material, float dlugoscFali, float zp,float z1, float z2,float zk);
+        void Buduj(FVector2D MapSizep, UMaterial* material, float SizeOfPlatep, float dlugoscFali, float zp,float z1, float z2,float zk, FVector pocz, int kierunek, int index, int kierunekFalowaniap);
 
 	UFUNCTION()
-        void Faluj();
+        void Faluj(TArray<FVector> verticesZew);
+        
+    UFUNCTION()
+		TArray<FVector> GetVertices(int kierunekp);
 	
 	UFUNCTION()
         void Przesun();
@@ -54,7 +57,13 @@ public:
 		float dlugoscFali;
 	float delay;
 	float zp,z1,z2,zk;
-	
+
+	bool glowny;
+	int kierunek;
+	int index;
+
+	int kierunekFalowania;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

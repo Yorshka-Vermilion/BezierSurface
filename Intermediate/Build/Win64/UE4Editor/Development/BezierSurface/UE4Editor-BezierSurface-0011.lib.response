@@ -11,10 +11,12 @@
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\BezierSurface.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\BezierSurfaceGameModeBase.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\MyActor.cpp.obj"
+"S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\Plat.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\Bezier.gen.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\BezierSurface.init.gen.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\BezierSurfaceGameModeBase.gen.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\MyActor.gen.cpp.obj"
+"S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\Plat.gen.cpp.obj"
 "S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\Default.rc2.res"
 /OUT:"S:\UE4\BezierSurface\Intermediate\Build\Win64\UE4Editor\Development\BezierSurface\UE4Editor-BezierSurface-0011.lib"
 /INCLUDE:IMPLEMENT_MODULE_BezierSurface

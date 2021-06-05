@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BezierSurface",
+			"Path": "S:\\UE4\\BezierSurface\\Source\\BezierSurface.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BezierSurfaceEditor",
+			"Path": "S:\\UE4\\BezierSurface\\Source\\BezierSurfaceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

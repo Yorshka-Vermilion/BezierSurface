@@ -38,9 +38,9 @@ public:
 	UPROPERTY(EditAnywhere)
 		float maxDelay;
 	UPROPERTY(EditAnywhere)
-		float maxDelay2;
-	UPROPERTY(EditAnywhere)
 		float dlugoscFali;
+	UPROPERTY(EditAnywhere)
+		float SizeOfPlate;
 	
 	float delay;
 	float zp,z1,z2,zk;
